@@ -2,7 +2,7 @@
 /**
  * handle_print - Prints various arguments based on its type
  * @fmt: Formatted string in which to print the arguments
- * @list: List of arguments to be printed (va_list)
+ * @list: List of arguments to be printed
  * @ind: Index that indicates the current position in the formatted string
  * @buffer: Buffer array to handle print
  * @flags: Calculates active flags
